@@ -1,19 +1,19 @@
 const socials = [
   {
     icon: "github.svg",
-    url: "https://github.com/randilt",
+    url: "https://github.com/ChakraHs",
   },
   {
     icon: "linkedin.svg",
-    url: "https://www.linkedin.com/in/randiltharusha/",
+    url: "https://www.linkedin.com/in/chakra-lahoucine/",
   },
   {
     icon: "instagram.svg",
-    url: "https://www.instagram.com/itz_toxic03/",
+    url: "https://www.instagram.com/7ussinchakra/",
   },
   {
     icon: "facebook.svg",
-    url: "https://facebook.com/profile.php?id=100089910035602",
+    url: "https://facebook.com/",
   },
 ];
 
