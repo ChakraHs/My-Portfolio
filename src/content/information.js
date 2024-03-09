@@ -1,4 +1,4 @@
-import imagePortfolio from'../assets/img/prtfolio_image.png';
+import imagePortfolio from'../assets/img/prtfolio_image3.png';
 //personal information start
 
 const userData = {
