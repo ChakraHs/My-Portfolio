@@ -187,6 +187,19 @@ nav {
 }
 /* hero styles end */
 
+.under-pfp{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 55px;
+  gap: 30px;
+  font-size: 22px;
+}
+.under-pfp-row{
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+}
 .button-effect {
   display: flex;
   flex-direction: column;
@@ -223,6 +236,12 @@ footer {
 .heading h1 span {
   color: #fa3939;
 }
+
+.p-nb{
+  color: #fa3939;
+  font-size: 36px;
+  font-weight: bold;
+}
 @media (max-width: 768px) {
   .heading h1 {
     font-size: 30px;
@@ -232,7 +251,16 @@ footer {
   .hero-text p {
     font-size: 15px;
   }
+
+  .under-pfp-row{
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    gap: 20px;
+  }
 }
+
+
 /* .hr {
   border: 0;
   height: 4px;
