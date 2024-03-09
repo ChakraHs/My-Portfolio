@@ -26,6 +26,15 @@ const Hero = (props) => {
         <img src={props.img} alt="" />
       </motion.div>
 
+      <div className="under-pfp">
+        <div className="under-pfp-row">
+          <span className="p-nb">+3</span> Years of Experinse in Web development
+        </div>
+        <div className="under-pfp-row">
+          Projects Worked in my career <span className="p-nb">+10</span>
+        </div>
+      </div>
+
       <Heading firstWord="Who" secondWord="AmI?" />
       <div className="hero-typewriter">
         <h3>I am</h3>
