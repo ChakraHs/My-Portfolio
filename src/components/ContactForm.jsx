@@ -25,23 +25,23 @@ const ContactForm = () => {
         <div>
           <p className="contact-links">
             <MdEmail />
-            randiltharusha72@gmail.com
+            houcine.chakra10@gmail.com
           </p>
           <br />
           <p className="contact-links">
             <FaPhoneAlt />
-            +94 78 134 7983
+            +212 61 981 6342
           </p>
           <br />
           <p className="contact-links">
             <IoLocation />
-            Sri Lanka
+            Rabat Morocco
           </p>
           <br />
         </div>
       </div>
       <div className="contact-form">
-        <form name="contact" netlify>
+        <form name="contact">
           <input
             type="text"
             name="senderName"
