@@ -254,7 +254,7 @@ footer {
 
   .under-pfp-row{
     display: flex;
-    width: 60%;
+    width: 80%;
     justify-content: space-between;
     gap: 20px;
   }
