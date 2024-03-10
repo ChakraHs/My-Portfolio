@@ -1,5 +1,5 @@
-import imagePortfolio from'../assets/img/prtfolio_image.png';
-//personal information start
+import imagePortfolio from'../assets/img/prtfolio_image3.png';
+//personal information start //
 
 const userData = {
   firstName: "<Chakra",
